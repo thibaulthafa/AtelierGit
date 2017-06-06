@@ -2,4 +2,4 @@ Mon test :
 Given je test
 When je test encore
 When je travaille sur la branche develop
-Then
+Then test

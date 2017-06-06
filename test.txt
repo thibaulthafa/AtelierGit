@@ -3,3 +3,4 @@ Given je test
 When je test encore
 When je travaille sur la branche develop
 Then test
+Then

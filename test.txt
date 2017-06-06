@@ -3,3 +3,5 @@ Given je test
 When je test encore
 When je test sur la branche feature/test
 Then j'ajoute un Then
+Then
+Then
